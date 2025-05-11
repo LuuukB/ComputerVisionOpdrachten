@@ -129,6 +129,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chapter2-Opdr-e.cpp" />
+    <ClCompile Include="chapter6-Opdr2.4.cpp" />
     <ClCompile Include="Practicum2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
