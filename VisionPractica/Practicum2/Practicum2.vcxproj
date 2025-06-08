@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1a031aab-b460-4ae9-953c-f8e77ad228d0}</ProjectGuid>
-    <RootNamespace>Practicum1</RootNamespace>
+    <ProjectGuid>{d53383d4-e240-49e4-a905-62d666270949}</ProjectGuid>
+    <RootNamespace>Practicum2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -129,10 +129,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter1.cpp" />
-    <ClCompile Include="Chapter3.cpp" />
-    <ClCompile Include="Chapter4.cpp" />
-    <ClCompile Include="Chapter5.cpp" />
+    <ClCompile Include="chapter2-Opdr-e.cpp" />
+    <ClCompile Include="chapter6-Opdr2.4.cpp" />
+    <ClCompile Include="Practicum2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
